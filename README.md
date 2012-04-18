@@ -38,6 +38,10 @@ Hope you enjoy these, they are in no way endorsed by anyone, I'm just making the
 
 ![](https://github.com/jasonm23/emacs-icons-project/raw/master/EmacsIcon7.png)
 
+## EmacsIcon8
+
+![](https://github.com/jasonm23/emacs-icons-project/raw/master/EmacsIcon8.png)
+
 # Emacs interlock primitives 
 
 ![](https://github.com/jasonm23/emacs-icons-project/raw/master/emacs-interlock-v1.png)
