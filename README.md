@@ -40,7 +40,16 @@ Hope you enjoy these, they are in no way endorsed by anyone, I'm just making the
 
 ## EmacsIcon8
 
+a little TextMate influence on the style.
+
 ![](https://github.com/jasonm23/emacs-icons-project/raw/master/EmacsIcon8.png)
+
+## EmacsIcon9
+
+a little more TextMate influence on the style.
+
+![](https://github.com/jasonm23/emacs-icons-project/raw/master/EmacsIcon9.png)
+
 
 # Emacs interlock primitives 
 
