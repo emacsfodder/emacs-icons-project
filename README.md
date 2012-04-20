@@ -50,6 +50,23 @@ a little more TextMate influence on the style.
 
 ![](https://github.com/jasonm23/emacs-icons-project/raw/master/EmacsIcon9.png)
 
+# Varieties on EmacsIcon8
+
+### emacs-card-blue-deep
+
+![](https://github.com/jasonm23/emacs-icons-project/raw/master/emacs-card-blue-deep.png)
+
+### emacs-card-british-racing-green
+
+![](https://github.com/jasonm23/emacs-icons-project/raw/master/emacs-card-british-racing-green.png)
+
+### emacs-card-carmine
+
+![](https://github.com/jasonm23/emacs-icons-project/raw/master/emacs-card-carmine.png)
+
+### emacs-card-green
+
+![](https://github.com/jasonm23/emacs-icons-project/raw/master/emacs-card-green.png)
 
 # Emacs interlock primitives 
 
