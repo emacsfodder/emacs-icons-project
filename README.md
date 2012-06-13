@@ -1,12 +1,8 @@
-#Emacs icons project
+# Emacs icons project
 
-This is a set of icons for use with your Emacs installation, 
+This is a set of icons for use with your Emacs installation, they are supplied here as png (512px) and icns, there are also thumbnails in the `thumb` folder for general use. 
 
-PNG and OS X .icns files only at the moment (go ahead, fork and pull request if you want to make & test different formats, e.g. .ico.) 
-
-To use with Cocoa Emacs.app, put one in place of `/Applications/Emacs.app/Contents/Resources/Emacs.icns` (you can also just open up the .icns file in Preview, do CMD+A and copy, then do the Icon Paste trick (select the icon on the Get Info panel of the Emacs.app, and paste onto it.) 
-
-Hope you enjoy these, they are in no way endorsed by anyone, I'm just making these for my own visual needs.
+Hope you enjoy them, they are in no way endorsed by anyone, I'm just making these for my own visual needs.
 
 # Thumbnails
 
