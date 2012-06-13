@@ -8,11 +8,9 @@ To use with Cocoa Emacs.app, put one in place of `/Applications/Emacs.app/Conten
 
 Hope you enjoy these, they are in no way endorsed by anyone, I'm just making these for my own visual needs.
 
-
 # Thumbnails
 
 ![EmacsIcon1](https://github.com/jasonm23/emacs-icons-project/raw/master/thumbs/EmacsIcon1.png) ![EmacsIcon2](https://github.com/jasonm23/emacs-icons-project/raw/master/thumbs/EmacsIcon2.png) ![EmacsIcon3](https://github.com/jasonm23/emacs-icons-project/raw/master/thumbs/EmacsIcon3.png) ![EmacsIcon4](https://github.com/jasonm23/emacs-icons-project/raw/master/thumbs/EmacsIcon4.png) ![EmacsIcon5](https://github.com/jasonm23/emacs-icons-project/raw/master/thumbs/EmacsIcon5.png) ![EmacsIcon6](https://github.com/jasonm23/emacs-icons-project/raw/master/thumbs/EmacsIcon6.png) ![EmacsIcon7](https://github.com/jasonm23/emacs-icons-project/raw/master/thumbs/EmacsIcon7.png) ![EmacsIcon8](https://github.com/jasonm23/emacs-icons-project/raw/master/thumbs/EmacsIcon8.png) ![EmacsIcon9](https://github.com/jasonm23/emacs-icons-project/raw/master/thumbs/EmacsIcon9.png) ![emacs-card-blue-deep](https://github.com/jasonm23/emacs-icons-project/raw/master/thumbs/emacs-card-blue-deep.png) ![emacs-card-british-racing-green](https://github.com/jasonm23/emacs-icons-project/raw/master/thumbs/emacs-card-british-racing-green.png) ![emacs-card-carmine](https://github.com/jasonm23/emacs-icons-project/raw/master/thumbs/emacs-card-carmine.png) ![emacs-card-green](https://github.com/jasonm23/emacs-icons-project/raw/master/thumbs/emacs-card-green.png) ![Emacs interlock primitives](https://github.com/jasonm23/emacs-icons-project/raw/master/thumbs/emacs-interlock-v1.png) ![Emacs interlock primitives](https://github.com/jasonm23/emacs-icons-project/raw/master/thumbs/emacs-interlock-v2.png)
-
 
 --- 
 
