@@ -8,5 +8,5 @@
         style="fill:none; color:red; stroke:red; stroke-width:1.00"/>
   <text style="text-anchor: middle;" x="512" y="900"
         font-family="Avenir Next" font-weight="bold" fill="#063B7B"
-        font-size="{{fontsize}}">{{lang}}</text>
+        font-size="110">FlexMxml</text>
 </svg>
