@@ -12,7 +12,10 @@ the `document-icons` folder.
 ## How to use
 
 I will add better instructions at some point, for the moment, I expect
-you to know how to do this:
+you to know how to do this: (Mac OS X specific)
+
+Pick an Application icon style you like and copy that to
+`Emacs.app/Contents/Resources/Emacs.icns`
 
 Copy `document-icons/*.icns` into `Emacs.app/Contents/Resources` to
 add the document icons. 
@@ -20,8 +23,7 @@ add the document icons.
 Overwrite `Emacs.app/Contents/Info.plist` with
 `document-icons/Info.plist`
 
-Pick an Application icon style you like and copy that to
-`Emacs.app/Contents/Resources/Emacs.icns`
+## Notes for Linux
 
 I you want to use these on Linux, I'd recommend just downscaling the
 PNG version to a suitable size with ImageMagick (they are 1024px), eg.
@@ -37,6 +39,8 @@ Do a single convert for an application icon, eg.
 I have no idea about filetype associations for KDE, Gnome etc. So for
 that, you're on your own, add an issue if you figure something out for
 a Linux window manager.
+
+## Notes for Windows
 
 If you want to use these with Windows, you're on your own. The PNG
 versions are your starting point, if you come up with a free and
@@ -56,6 +60,9 @@ I used InkScape to make the PNG files from SVG and [`makeicns`](https://bitbucke
 document icns.
 
 I've also included an OS X Info.plist. 
+
+The font used is Avenir Next, it's part of Mountain Lion's default
+font set.
 
 #### Plan
 
