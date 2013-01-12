@@ -26,7 +26,7 @@ Overwrite `Emacs.app/Contents/Info.plist` with
 ## Notes for Linux
 
 I you want to use these on Linux, I'd recommend just downscaling the
-PNG version to a suitable size with ImageMagick (they are 1024px), eg.
+PNG version to a suitable size with ImageMagick (they range from 900-1024px), eg.
 
     mkdir linux-icons;
     for icon in document-icons/*.png
