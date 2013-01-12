@@ -11,17 +11,34 @@ the `document-icons` folder.
 
 ## How to use
 
+These are all ready to rock on OS X, because I use it, I've put a
+couple of notes below for Linux and Windows, but they are sparse.
+
 I will add better instructions at some point, for the moment, I expect
-you to know how to do this: (Mac OS X specific)
+you to know how to do this:
 
-Pick an Application icon style you like and copy that to
-`Emacs.app/Contents/Resources/Emacs.icns`
+# Mac OS X
 
-Copy `document-icons/*.icns` into `Emacs.app/Contents/Resources` to
-add the document icons. 
+Pick an Application icon style you like and copy that to Emacs.app
 
-Overwrite `Emacs.app/Contents/Info.plist` with
-`document-icons/Info.plist`
+ie.
+
+    cp emacs-card-blue-deep.icns /Applications/Emacs.app/Contents/Resources/Emacs.icns
+    
+To install the document icons:    
+
+    cp document-icons/*.icns /Applications/Emacs.app/Contents/Resources/
+
+Backup `Info.plist` and copy the version from here, ie.:
+
+    cp /Applications/Emacs.app/Contents/Info.plist /Applications/Emacs.app/Contents/Info.plist.bak 
+    
+    cp document-icons/Info.plist /Applications/Emacs.app/Contents/Info.plist
+
+I could write you a script to do this, but then you'd bug me if you
+didn't know how to do this... so, you know, this is how it'll stay.
+
+Getting OS X to recognise Emacs.app as the app to handle all the file types is something I'm working on, if you have various text editors installed, they will all vie for attention from OS X, e.g. XCode, TextMate, Sublime Text 2, MacVim, BBEdit, etc. etc. You can rebuild the launchd registry database with `lsregister` (`$(locate lsregister) --help` there's no man page AFAIK, but there is this http://ss64.com/osx/lsregister.html) - I intend to address this part of the process more completely, but as it is now, I have XCode overriding many of my defaults. - You can also have a look at `duti` - http://duti.org/documentation.html for info on OS X filetype handling and setting.
 
 ## Notes for Linux
 
