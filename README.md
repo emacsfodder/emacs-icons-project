@@ -96,29 +96,29 @@ A small sample
 
 # Application Icons
 
-![EmacsIcon1](https://github.com/jasonm23/emacs-icons-project/raw/master/thumb/EmacsIcon1.png)
-![EmacsIcon2](https://github.com/jasonm23/emacs-icons-project/raw/master/thumb/EmacsIcon2.png)
-![EmacsIcon3](https://github.com/jasonm23/emacs-icons-project/raw/master/thumb/EmacsIcon3.png)
-![EmacsIcon4](https://github.com/jasonm23/emacs-icons-project/raw/master/thumb/EmacsIcon4.png)
-![EmacsIcon5](https://github.com/jasonm23/emacs-icons-project/raw/master/thumb/EmacsIcon5.png)
-![EmacsIcon6](https://github.com/jasonm23/emacs-icons-project/raw/master/thumb/EmacsIcon6.png)
-![EmacsIcon7](https://github.com/jasonm23/emacs-icons-project/raw/master/thumb/EmacsIcon7.png)
-![EmacsIcon8](https://github.com/jasonm23/emacs-icons-project/raw/master/thumb/EmacsIcon8.png)
-![EmacsIcon9](https://github.com/jasonm23/emacs-icons-project/raw/master/thumb/EmacsIcon9.png)
-![emacs-card-blue-deep](https://github.com/jasonm23/emacs-icons-project/raw/master/thumb/emacs-card-blue-deep.png)
-![emacs-card-british-racing-green](https://github.com/jasonm23/emacs-icons-project/raw/master/thumb/emacs-card-british-racing-green.png)
-![emacs-card-carmine](https://github.com/jasonm23/emacs-icons-project/raw/master/thumb/emacs-card-carmine.png)
-![emacs-card-green](https://github.com/jasonm23/emacs-icons-project/raw/master/thumb/emacs-card-green.png) 
+[![EmacsIcon1](https://github.com/jasonm23/emacs-icons-project/raw/master/thumb/EmacsIcon1.png)](https://github.com/jasonm23/emacs-icons-project/raw/master/EmacsIcon1.png)
+[![EmacsIcon2](https://github.com/jasonm23/emacs-icons-project/raw/master/thumb/EmacsIcon2.png)](https://github.com/jasonm23/emacs-icons-project/raw/master/EmacsIcon2.png)
+[![EmacsIcon3](https://github.com/jasonm23/emacs-icons-project/raw/master/thumb/EmacsIcon3.png)](https://github.com/jasonm23/emacs-icons-project/raw/master/EmacsIcon3.png)
+[![EmacsIcon4](https://github.com/jasonm23/emacs-icons-project/raw/master/thumb/EmacsIcon4.png)](https://github.com/jasonm23/emacs-icons-project/raw/master/EmacsIcon4.png)
+[![EmacsIcon5](https://github.com/jasonm23/emacs-icons-project/raw/master/thumb/EmacsIcon5.png)](https://github.com/jasonm23/emacs-icons-project/raw/master/EmacsIcon5.png)
+[![EmacsIcon6](https://github.com/jasonm23/emacs-icons-project/raw/master/thumb/EmacsIcon6.png)](https://github.com/jasonm23/emacs-icons-project/raw/master/EmacsIcon6.png)
+[![EmacsIcon7](https://github.com/jasonm23/emacs-icons-project/raw/master/thumb/EmacsIcon7.png)](https://github.com/jasonm23/emacs-icons-project/raw/master/EmacsIcon7.png)
+[![EmacsIcon8](https://github.com/jasonm23/emacs-icons-project/raw/master/thumb/EmacsIcon8.png)](https://github.com/jasonm23/emacs-icons-project/raw/master/EmacsIcon8.png)
+[![EmacsIcon9](https://github.com/jasonm23/emacs-icons-project/raw/master/thumb/EmacsIcon9.png)](https://github.com/jasonm23/emacs-icons-project/raw/master/EmacsIcon9.png)
+[![emacs-card-blue-deep](https://github.com/jasonm23/emacs-icons-project/raw/master/thumb/emacs-card-blue-deep.png)](https://github.com/jasonm23/emacs-icons-project/raw/master/emacs-card-blue-deep.png)
+[![emacs-card-british-racing-green](https://github.com/jasonm23/emacs-icons-project/raw/master/thumb/emacs-card-british-racing-green.png)](https://github.com/jasonm23/emacs-icons-project/raw/master/emacs-card-british-racing-green.png)
+[![emacs-card-carmine](https://github.com/jasonm23/emacs-icons-project/raw/master/thumb/emacs-card-carmine.png)](https://github.com/jasonm23/emacs-icons-project/raw/master/emacs-card-carmine.png)
+[![emacs-card-green](https://github.com/jasonm23/emacs-icons-project/raw/master/thumb/emacs-card-green.png) ](https://github.com/jasonm23/emacs-icons-project/raw/master/emacs-card-green.png)
 
 # Icon base
 
 Base icon motif - used to create all icons above.
 
-![Emacs interlock primitives](https://github.com/jasonm23/emacs-icons-project/raw/master/thumb/emacs-interlock-v2.png)
+[![Emacs interlock primitives](https://github.com/jasonm23/emacs-icons-project/raw/master/thumb/emacs-interlock-v2.png)](https://github.com/jasonm23/emacs-icons-project/raw/master/emacs-interlock-v2.png)
 
 (An early version)
 
-![Emacs interlock primitives](https://github.com/jasonm23/emacs-icons-project/raw/master/thumb/emacs-interlock-v1.png) 
+[![Emacs interlock primitives](https://github.com/jasonm23/emacs-icons-project/raw/master/thumb/emacs-interlock-v1.png) ](https://github.com/jasonm23/emacs-icons-project/raw/master/emacs-interlock-v1.png)
 
 --- 
 
