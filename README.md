@@ -11,7 +11,13 @@ the `document-icons` folder.
 
 # Contributing / Intension of this project
 
-I really offer this project up as a framework, I'd hope that people could come up with alternative designs, and I can improve the ease of including this into a build, that way you could pick from a range of icons, and be happy as larry.
+I really offer this project up as a framework, I'd hope that people could come up with alternative designs, 
+and I can improve the ease of including this into a build, that way you could pick from a range of icons, 
+and be happy as larry.
+
+I've made this initially Mac specific, because that's what I use, and stereotypes suggest that mac users 
+are more focussed on how things look. So please raise issues and post icon/logo ideas, I'm not averse to 
+customizing the god-awful Emacs splash page either.
 
 ## How to use
 
