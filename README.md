@@ -9,6 +9,10 @@ them, in any way, (other than adding stuff to this project.)
 Application icons are in the root folder, document type icons are in
 the `document-icons` folder.
 
+# Contributing / Intension of this project
+
+I really offer this project up as a framework, I'd hope that people could come up with alternative designs, and I can improve the ease of including this into a build, that way you could pick from a range of icons, and be happy as larry.
+
 ## How to use
 
 These are all ready to rock on OS X, because I use it, I've put a
