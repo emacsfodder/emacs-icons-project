@@ -19,6 +19,14 @@ I've made this initially Mac specific, because that's what I use, and stereotype
 are more focussed on how things look. So please raise issues and post icon/logo ideas, I'm not averse to 
 customizing the god-awful Emacs splash page either.
 
+## Making it all free
+
+The central design was built with Cinema4D, but I plan to make it render with POV instead to keep it free, 
+the background designs were made in photoshop, but I should get my act together on that too and make them
+pure SVG, it's perfectly capable of rendering them. 
+
+Not just because they're free, but because they're also resolution independent, and that's always good.
+
 ## How to use
 
 These are all ready to rock on OS X, because I use it, I've put a
