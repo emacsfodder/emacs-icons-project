@@ -1,6 +1,6 @@
 # Emacs icons project
 
-Please note, these are not "official" GNU icons. 
+Please note, these are not "official" GNU icons.
 
 I created these for my own use, I'm fairly OCD about visual stuff, and
 I decided to share these with the community, I won't be promoting
@@ -11,19 +11,19 @@ the `document-icons` folder.
 
 # Contributing / Intension of this project
 
-I really offer this project up as a framework, I'd hope that people could come up with alternative designs, 
-and I can improve the ease of including this into a build, that way you could pick from a range of icons, 
+I really offer this project up as a framework, I'd hope that people could come up with alternative designs,
+and I can improve the ease of including this into a build, that way you could pick from a range of icons,
 and be happy as larry.
 
-I've made this initially Mac specific, because that's what I use, and stereotypes suggest that mac users 
-are more focussed on how things look. So please raise issues and post icon/logo ideas, I'm not averse to 
+I've made this initially Mac specific, because that's what I use, and stereotypes suggest that mac users
+are more focussed on how things look. So please raise issues and post icon/logo ideas, I'm not averse to
 customizing the god-awful Emacs splash page either.
 
 ## Making it all free
 
-The central design was built with Cinema4D, but I plan to make it render with POV instead to keep it free, 
+The central design was built with Cinema4D, but I plan to make it render with POV instead to keep it free,
 the background designs were made in photoshop, but I should get my act together on that too and make them
-pure SVG, it's perfectly capable of rendering them. 
+pure SVG, it's perfectly capable of rendering them.
 
 Not just because they're free, but because they're also resolution independent, and that's always good.
 
@@ -42,15 +42,15 @@ Pick an Application icon style you like and copy that to Emacs.app
 ie.
 
     cp emacs-card-blue-deep.icns /Applications/Emacs.app/Contents/Resources/Emacs.icns
-    
-To install the document icons:    
+
+To install the document icons:
 
     cp document-icons/*.icns /Applications/Emacs.app/Contents/Resources/
 
 Backup `Info.plist` and copy the version from here, ie.:
 
-    cp /Applications/Emacs.app/Contents/Info.plist /Applications/Emacs.app/Contents/Info.plist.bak 
-    
+    cp /Applications/Emacs.app/Contents/Info.plist /Applications/Emacs.app/Contents/Info.plist.bak
+
     cp document-icons/Info.plist /Applications/Emacs.app/Contents/Info.plist
 
 I could write you a script to do this, but then you'd bug me if you
@@ -81,20 +81,20 @@ If you want to use these with Windows, you're on your own. The PNG
 versions are your starting point, if you come up with a free and
 automatic method, add an Issue here and I'll integrate it.
 
-## (semi) Automating doc-icons 
+## (semi) Automating doc-icons
 
 I've created a template method of building document-icons.
 
 Within `document-icons/` you'll find:
 
   * document-icons/doc-types.yaml
-  * document-icons/doc-icon.mustache - an SVG template 
+  * document-icons/doc-icon.mustache - an SVG template
   * document-icons/make-svg-icons.rb
-  
+
 I used InkScape to make the PNG files from SVG and [`makeicns`](https://bitbucket.org/mkae/makeicns) to make the
 document icns.
 
-I've also included an OS X Info.plist. 
+I've also included an OS X Info.plist.
 
 The font used is Avenir Next, it's part of Mountain Lion's default
 font set.
@@ -102,7 +102,7 @@ font set.
 #### Plan
 
 I intend to update doc-types to include descriptions, file extension
-and any relevant `public` (or otherwise) Local UTI names. 
+and any relevant `public` (or otherwise) Local UTI names.
 
 I can then automatically patch `Info.plist`.
 
@@ -114,19 +114,19 @@ A small sample
 
 # Application Icons
 
-[![EmacsIcon1](https://github.com/jasonm23/emacs-icons-project/raw/master/thumb/EmacsIcon1.png)](https://github.com/jasonm23/emacs-icons-project/raw/master/EmacsIcon1.png)
-[![EmacsIcon2](https://github.com/jasonm23/emacs-icons-project/raw/master/thumb/EmacsIcon2.png)](https://github.com/jasonm23/emacs-icons-project/raw/master/EmacsIcon2.png)
-[![EmacsIcon3](https://github.com/jasonm23/emacs-icons-project/raw/master/thumb/EmacsIcon3.png)](https://github.com/jasonm23/emacs-icons-project/raw/master/EmacsIcon3.png)
-[![EmacsIcon4](https://github.com/jasonm23/emacs-icons-project/raw/master/thumb/EmacsIcon4.png)](https://github.com/jasonm23/emacs-icons-project/raw/master/EmacsIcon4.png)
-[![EmacsIcon5](https://github.com/jasonm23/emacs-icons-project/raw/master/thumb/EmacsIcon5.png)](https://github.com/jasonm23/emacs-icons-project/raw/master/EmacsIcon5.png)
-[![EmacsIcon6](https://github.com/jasonm23/emacs-icons-project/raw/master/thumb/EmacsIcon6.png)](https://github.com/jasonm23/emacs-icons-project/raw/master/EmacsIcon6.png)
-[![EmacsIcon7](https://github.com/jasonm23/emacs-icons-project/raw/master/thumb/EmacsIcon7.png)](https://github.com/jasonm23/emacs-icons-project/raw/master/EmacsIcon7.png)
-[![EmacsIcon8](https://github.com/jasonm23/emacs-icons-project/raw/master/thumb/EmacsIcon8.png)](https://github.com/jasonm23/emacs-icons-project/raw/master/EmacsIcon8.png)
-[![EmacsIcon9](https://github.com/jasonm23/emacs-icons-project/raw/master/thumb/EmacsIcon9.png)](https://github.com/jasonm23/emacs-icons-project/raw/master/EmacsIcon9.png)
-[![emacs-card-blue-deep](https://github.com/jasonm23/emacs-icons-project/raw/master/thumb/emacs-card-blue-deep.png)](https://github.com/jasonm23/emacs-icons-project/raw/master/emacs-card-blue-deep.png)
-[![emacs-card-british-racing-green](https://github.com/jasonm23/emacs-icons-project/raw/master/thumb/emacs-card-british-racing-green.png)](https://github.com/jasonm23/emacs-icons-project/raw/master/emacs-card-british-racing-green.png)
-[![emacs-card-carmine](https://github.com/jasonm23/emacs-icons-project/raw/master/thumb/emacs-card-carmine.png)](https://github.com/jasonm23/emacs-icons-project/raw/master/emacs-card-carmine.png)
-[![emacs-card-green](https://github.com/jasonm23/emacs-icons-project/raw/master/thumb/emacs-card-green.png) ](https://github.com/jasonm23/emacs-icons-project/raw/master/emacs-card-green.png)
+[![EmacsIcon1](https://github.com/jasonm23/emacs-icons-project/raw/master/thumb/EmacsIcon1.png)](https://github.com/jasonm23/emacs-icons-project/raw/master/EmacsIcon1.png "EmacsIcon1")
+[![EmacsIcon2](https://github.com/jasonm23/emacs-icons-project/raw/master/thumb/EmacsIcon2.png)](https://github.com/jasonm23/emacs-icons-project/raw/master/EmacsIcon2.png "EmacsIcon2")
+[![EmacsIcon3](https://github.com/jasonm23/emacs-icons-project/raw/master/thumb/EmacsIcon3.png)](https://github.com/jasonm23/emacs-icons-project/raw/master/EmacsIcon3.png "EmacsIcon3")
+[![EmacsIcon4](https://github.com/jasonm23/emacs-icons-project/raw/master/thumb/EmacsIcon4.png)](https://github.com/jasonm23/emacs-icons-project/raw/master/EmacsIcon4.png "EmacsIcon4")
+[![EmacsIcon5](https://github.com/jasonm23/emacs-icons-project/raw/master/thumb/EmacsIcon5.png)](https://github.com/jasonm23/emacs-icons-project/raw/master/EmacsIcon5.png "EmacsIcon5")
+[![EmacsIcon6](https://github.com/jasonm23/emacs-icons-project/raw/master/thumb/EmacsIcon6.png)](https://github.com/jasonm23/emacs-icons-project/raw/master/EmacsIcon6.png "EmacsIcon6")
+[![EmacsIcon7](https://github.com/jasonm23/emacs-icons-project/raw/master/thumb/EmacsIcon7.png)](https://github.com/jasonm23/emacs-icons-project/raw/master/EmacsIcon7.png "EmacsIcon7")
+[![EmacsIcon8](https://github.com/jasonm23/emacs-icons-project/raw/master/thumb/EmacsIcon8.png)](https://github.com/jasonm23/emacs-icons-project/raw/master/EmacsIcon8.png "EmacsIcon8")
+[![EmacsIcon9](https://github.com/jasonm23/emacs-icons-project/raw/master/thumb/EmacsIcon9.png)](https://github.com/jasonm23/emacs-icons-project/raw/master/EmacsIcon9.png "EmacsIcon9")
+[![emacs-card-blue-deep](https://github.com/jasonm23/emacs-icons-project/raw/master/thumb/emacs-card-blue-deep.png)](https://github.com/jasonm23/emacs-icons-project/raw/master/emacs-card-blue-deep.png "emacs-card-blue-deep")
+[![emacs-card-british-racing-green](https://github.com/jasonm23/emacs-icons-project/raw/master/thumb/emacs-card-british-racing-green.png)](https://github.com/jasonm23/emacs-icons-project/raw/master/emacs-card-british-racing-green.png "emacs-card-british-racing-green")
+[![emacs-card-carmine](https://github.com/jasonm23/emacs-icons-project/raw/master/thumb/emacs-card-carmine.png)](https://github.com/jasonm23/emacs-icons-project/raw/master/emacs-card-carmine.png "emacs-card-carmine")
+[![emacs-card-green](https://github.com/jasonm23/emacs-icons-project/raw/master/thumb/emacs-card-green.png) ](https://github.com/jasonm23/emacs-icons-project/raw/master/emacs-card-green.png "emacs-card-green")
 
 # Icon base
 
@@ -138,7 +138,7 @@ Base icon motif - used to create all icons above.
 
 [![Emacs interlock primitives](https://github.com/jasonm23/emacs-icons-project/raw/master/thumb/emacs-interlock-v1.png) ](https://github.com/jasonm23/emacs-icons-project/raw/master/emacs-interlock-v1.png)
 
---- 
+---
 
 # Use and Contributing
 
@@ -146,4 +146,3 @@ Do what you like with these, if you want to use them / modify etc, go
 ahead.
 
 MIT License applies.
-
