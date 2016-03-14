@@ -114,44 +114,57 @@ A small sample
 
 # Application Icons
 
-- **EmacsIcon1**
-    [![EmacsIcon1](https://github.com/jasonm23/emacs-icons-project/raw/master/thumb/EmacsIcon1.png)](https://github.com/jasonm23/emacs-icons-project/raw/master/EmacsIcon1.png "EmacsIcon1")
+##### EmacsIcon1
 
-- **EmacsIcon2**
-    [![EmacsIcon2](https://github.com/jasonm23/emacs-icons-project/raw/master/thumb/EmacsIcon2.png)](https://github.com/jasonm23/emacs-icons-project/raw/master/EmacsIcon2.png "EmacsIcon2")
+[![EmacsIcon1](https://github.com/jasonm23/emacs-icons-project/raw/master/thumb/EmacsIcon1.png)](https://github.com/jasonm23/emacs-icons-project/raw/master/EmacsIcon1.png "EmacsIcon1")
 
-- **EmacsIcon3**
-    [![EmacsIcon3](https://github.com/jasonm23/emacs-icons-project/raw/master/thumb/EmacsIcon3.png)](https://github.com/jasonm23/emacs-icons-project/raw/master/EmacsIcon3.png "EmacsIcon3")
+##### EmacsIcon2
 
-- **EmacsIcon4**
-    [![EmacsIcon4](https://github.com/jasonm23/emacs-icons-project/raw/master/thumb/EmacsIcon4.png)](https://github.com/jasonm23/emacs-icons-project/raw/master/EmacsIcon4.png "EmacsIcon4")
+[![EmacsIcon2](https://github.com/jasonm23/emacs-icons-project/raw/master/thumb/EmacsIcon2.png)](https://github.com/jasonm23/emacs-icons-project/raw/master/EmacsIcon2.png "EmacsIcon2")
 
-- **EmacsIcon5**
-    [![EmacsIcon5](https://github.com/jasonm23/emacs-icons-project/raw/master/thumb/EmacsIcon5.png)](https://github.com/jasonm23/emacs-icons-project/raw/master/EmacsIcon5.png "EmacsIcon5")
+##### EmacsIcon3
 
-- **EmacsIcon6**
-    [![EmacsIcon6](https://github.com/jasonm23/emacs-icons-project/raw/master/thumb/EmacsIcon6.png)](https://github.com/jasonm23/emacs-icons-project/raw/master/EmacsIcon6.png "EmacsIcon6")
+[![EmacsIcon3](https://github.com/jasonm23/emacs-icons-project/raw/master/thumb/EmacsIcon3.png)](https://github.com/jasonm23/emacs-icons-project/raw/master/EmacsIcon3.png "EmacsIcon3")
 
-- **EmacsIcon7**
-    [![EmacsIcon7](https://github.com/jasonm23/emacs-icons-project/raw/master/thumb/EmacsIcon7.png)](https://github.com/jasonm23/emacs-icons-project/raw/master/EmacsIcon7.png "EmacsIcon7")
+##### EmacsIcon4
 
-- **EmacsIcon8**
-    [![EmacsIcon8](https://github.com/jasonm23/emacs-icons-project/raw/master/thumb/EmacsIcon8.png)](https://github.com/jasonm23/emacs-icons-project/raw/master/EmacsIcon8.png "EmacsIcon8")
+[![EmacsIcon4](https://github.com/jasonm23/emacs-icons-project/raw/master/thumb/EmacsIcon4.png)](https://github.com/jasonm23/emacs-icons-project/raw/master/EmacsIcon4.png "EmacsIcon4")
 
-- **EmacsIcon9**
-    [![EmacsIcon9](https://github.com/jasonm23/emacs-icons-project/raw/master/thumb/EmacsIcon9.png)](https://github.com/jasonm23/emacs-icons-project/raw/master/EmacsIcon9.png "EmacsIcon9")
+##### EmacsIcon5
 
-- **Emacs-card-blue-deep**
-    [![emacs-card-blue-deep](https://github.com/jasonm23/emacs-icons-project/raw/master/thumb/emacs-card-blue-deep.png)](https://github.com/jasonm23/emacs-icons-project/raw/master/emacs-card-blue-deep.png "emacs-card-blue-deep")
+[![EmacsIcon5](https://github.com/jasonm23/emacs-icons-project/raw/master/thumb/EmacsIcon5.png)](https://github.com/jasonm23/emacs-icons-project/raw/master/EmacsIcon5.png "EmacsIcon5")
 
-- **Emacs-card-british-racing-green**
-    [![emacs-card-british-racing-green](https://github.com/jasonm23/emacs-icons-project/raw/master/thumb/emacs-card-british-racing-green.png)](https://github.com/jasonm23/emacs-icons-project/raw/master/emacs-card-british-racing-green.png "emacs-card-british-racing-green")
+##### EmacsIcon6
 
-- **Emacs-card-carmine**
-    [![emacs-card-carmine](https://github.com/jasonm23/emacs-icons-project/raw/master/thumb/emacs-card-carmine.png)](https://github.com/jasonm23/emacs-icons-project/raw/master/emacs-card-carmine.png "emacs-card-carmine")
+[![EmacsIcon6](https://github.com/jasonm23/emacs-icons-project/raw/master/thumb/EmacsIcon6.png)](https://github.com/jasonm23/emacs-icons-project/raw/master/EmacsIcon6.png "EmacsIcon6")
 
-- **Emacs-card-green**
-    [![emacs-card-green](https://github.com/jasonm23/emacs-icons-project/raw/master/thumb/emacs-card-green.png) ](https://github.com/jasonm23/emacs-icons-project/raw/master/emacs-card-green.png "emacs-card-green")
+##### EmacsIcon7
+
+[![EmacsIcon7](https://github.com/jasonm23/emacs-icons-project/raw/master/thumb/EmacsIcon7.png)](https://github.com/jasonm23/emacs-icons-project/raw/master/EmacsIcon7.png "EmacsIcon7")
+
+##### EmacsIcon8
+
+[![EmacsIcon8](https://github.com/jasonm23/emacs-icons-project/raw/master/thumb/EmacsIcon8.png)](https://github.com/jasonm23/emacs-icons-project/raw/master/EmacsIcon8.png "EmacsIcon8")
+
+##### EmacsIcon9
+
+[![EmacsIcon9](https://github.com/jasonm23/emacs-icons-project/raw/master/thumb/EmacsIcon9.png)](https://github.com/jasonm23/emacs-icons-project/raw/master/EmacsIcon9.png "EmacsIcon9")
+
+##### Emacs-card-blue-deep
+
+[![emacs-card-blue-deep](https://github.com/jasonm23/emacs-icons-project/raw/master/thumb/emacs-card-blue-deep.png)](https://github.com/jasonm23/emacs-icons-project/raw/master/emacs-card-blue-deep.png "emacs-card-blue-deep")
+
+##### Emacs-card-british-racing-green
+
+[![emacs-card-british-racing-green](https://github.com/jasonm23/emacs-icons-project/raw/master/thumb/emacs-card-british-racing-green.png)](https://github.com/jasonm23/emacs-icons-project/raw/master/emacs-card-british-racing-green.png "emacs-card-british-racing-green")
+
+##### Emacs-card-carmine
+
+[![emacs-card-carmine](https://github.com/jasonm23/emacs-icons-project/raw/master/thumb/emacs-card-carmine.png)](https://github.com/jasonm23/emacs-icons-project/raw/master/emacs-card-carmine.png "emacs-card-carmine")
+
+##### Emacs-card-green
+
+[![emacs-card-green](https://github.com/jasonm23/emacs-icons-project/raw/master/thumb/emacs-card-green.png) ](https://github.com/jasonm23/emacs-icons-project/raw/master/emacs-card-green.png "emacs-card-green")
 
 # Icon base
 
