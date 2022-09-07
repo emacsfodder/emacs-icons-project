@@ -9,6 +9,18 @@ them, in any way, (other than adding stuff to this project.)
 Application icons are in the root folder, document type icons are in
 the `document-icons` folder.
 
+# News
+
+Added 2 new icons on Sept 7 2022.
+
+### EmacsTerm
+
+![](./EmacsTerm.iconset/icon_512x512@2x.png)
+
+### EmacsVapor
+
+![](./EmacsVapor.iconset/icon_512x512@2x.png)
+
 # Contributing / Intention of this project
 
 I really offer this project up as a framework, I'd hope that people could come up with alternative designs,
