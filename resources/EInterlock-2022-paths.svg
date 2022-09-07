@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="1024"
+   height="1024"
+   viewBox="0 0 1024 1024"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.2 (dc2aeda, 2022-05-15)"
+   sodipodi:docname="EInterlock-2022-paths.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#505050"
+     bordercolor="#ffffff"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="1"
+     inkscape:deskcolor="#505050"
+     inkscape:document-units="px"
+     showgrid="false"
+     inkscape:zoom="1.0029297"
+     inkscape:cx="453.67089"
+     inkscape:cy="522.46933"
+     inkscape:window-width="2560"
+     inkscape:window-height="1412"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       id="g2659"
+       transform="translate(173.4244,205.02045)">
+      <path
+         id="rect2507"
+         style="opacity:1;stroke-width:48.7786;stroke-linecap:round;stroke-linejoin:round"
+         d="m 132.62834,106.97955 c -8.6816,0 -15.66993,6.98833 -15.66993,15.66992 v 468.66016 c 0,8.68159 6.98833,15.66992 15.66993,15.66992 h 313.56445 v -100 h -216 v -100 h 216 v -100 h -216 v -100 h 216 v -100 z" />
+      <path
+         id="path2655"
+         style="opacity:1;fill:#ffffff;stroke-width:48.7786;stroke-linecap:round;stroke-linejoin:round"
+         d="m 544.52286,506.97955 c 8.6816,0 15.66993,-6.98833 15.66993,-15.66992 V 22.649472 c 0,-8.68159 -6.98833,-15.6699199 -15.66993,-15.6699199 H 230.95841 V 106.97955 h 216 v 100 h -216 v 100 h 216 v 100 h -216 v 100 z" />
+    </g>
+  </g>
+</svg>
