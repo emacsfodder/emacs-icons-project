@@ -1,0 +1,6 @@
+#!/bin/sh
+for a in *icns
+do
+echo "$(sha256sum $a)"
+done| awk '{ printf "%s => \"%s\"\n", $2, $1 }'
+echo "Commit SHA: $(git log -1 --format="%H")"
