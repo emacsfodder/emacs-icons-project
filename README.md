@@ -15,11 +15,11 @@ Added 2 new icons on Sept 7 2022.
 
 ### EmacsTerm
 
-![](./EmacsTerm.iconset/icon_512x512@2x.png)
+![](./EmacsTerm.png)
 
 ### EmacsVapor
 
-![](./EmacsVapor.iconset/icon_512x512@2x.png)
+![](./EmacsVapor.png)
 
 # Contributing / Intention of this project
 
